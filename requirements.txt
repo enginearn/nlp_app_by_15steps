@@ -1,0 +1,14 @@
+gensim
+joblib
+keras
+mecab-python3
+numpy
+pandas
+python-dateutil
+pytz
+scikit-learn
+scipy
+six
+smart-open
+threadpoolctl
+tzdata
